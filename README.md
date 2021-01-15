@@ -1,3 +1,4 @@
+[![Build Status](https://s2llc.visualstudio.com/Space%20Game%20-%20web%20-%20workflow/_apis/build/status/BSchroed29.mslearn-tailspin-spacegame-web?branchName=master)](https://s2llc.visualstudio.com/Space%20Game%20-%20web%20-%20workflow/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
